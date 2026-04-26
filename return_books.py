@@ -8,4 +8,4 @@ def return_books():
             books.append(book_name)
             print(f"Book - {book_name} returned successfully. ")
         else:
-            print("fuck off!!!")    
+            print("No such book available")    
